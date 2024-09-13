@@ -1,8 +1,8 @@
-# Ultimate Torrent Scraper - User Manual
+# Ultimate Torrent Scraper (BITCHE) - User Manual
 
 ## Introduction
 
-Ultimate Torrent Scraper is a powerful desktop application that allows you to search for torrents across multiple popular torrent websites simultaneously. With its user-friendly interface and comprehensive search capabilities, you can easily find the content you're looking for from various sources.
+Ultimate Torrent Scraper (BITCHE) is a powerful desktop application that allows you to search for torrents across multiple popular torrent websites simultaneously. With its user-friendly interface and comprehensive search capabilities, you can easily find the content you're looking for from various sources.
 
 ![Alt Text](Snap.gif)
 
