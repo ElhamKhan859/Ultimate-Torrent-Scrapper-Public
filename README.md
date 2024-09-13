@@ -56,5 +56,5 @@ Located at the bottom of the window, it displays current application status and 
 
 ## Get the Product
 
-#https://naimelham.gumroad.com/l/ultimatetorrentscrapper
+
 Product zip available in the repository
