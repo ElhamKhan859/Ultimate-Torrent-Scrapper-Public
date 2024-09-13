@@ -4,6 +4,8 @@
 
 Ultimate Torrent Scraper is a powerful desktop application that allows you to search for torrents across multiple popular torrent websites simultaneously. With its user-friendly interface and comprehensive search capabilities, you can easily find the content you're looking for from various sources.
 
+![Alt Text](Snap.gif)
+
 ## Getting Started
 
 1. Launch the application by running the main script.
