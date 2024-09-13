@@ -54,7 +54,7 @@ Located at the bottom of the window, it displays current application status and 
 - The application uses a local API server running on `http://127.0.0.1:8009` to fetch torrent information. Make sure this server is running alongside the main application.
 - Be aware of the legal implications of downloading copyrighted material in your jurisdiction.
 
-## Buying the Product
+## Get the Product
 
 https://naimelham.gumroad.com/l/ultimatetorrentscrapper
 Product zip available in the repository
